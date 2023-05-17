@@ -1,0 +1,33 @@
+_repo: Emberek-a-kovek-kozott-b-Regeny_70724
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tormay, Cécile
+    aliases:
+    - Tormay, Cecile
+    - Tormay, Cecil
+    birthdate: 1876
+    deathdate: 1937
+    gutenberg_agent_id: '53758'
+    url: http://www.gutenberg.org/2009/agents/53758
+    wikipedia:
+    - https://en.wikipedia.org/wiki/C%C3%A9cile_Tormay
+    - https://hu.wikipedia.org/wiki/Tormay_C%C3%A9cile
+description: ''
+gutenberg_issued: '2023-05-08'
+identifiers:
+  gutenberg: '70724'
+language: hu
+pgterms:marc905: 20230506113014tormay
+pgterms:marc906: '1919'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Hungarian
+  Electronic Library
+publication_note: '  $aHungary :$bFranklin-Társulat, $c1919.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Emberek a kövek között : $b Regény'
+url: http://www.gutenberg.org/ebooks/70724
