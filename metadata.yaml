@@ -1,5 +1,8 @@
 _repo: Emberek-a-kovek-kozott-b-Regeny_70724
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Tormay, Cécile
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/C%C3%A9cile_Tormay
     - https://hu.wikipedia.org/wiki/Tormay_C%C3%A9cile
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70724#Emberek-a-kovek-kozott-b-Regeny
 gutenberg_issued: '2023-05-08'
 identifiers:
   gutenberg: '70724'
